@@ -1,0 +1,9 @@
+# Ignore PHPStorm, PHPUnit, PHP_CodeSniffer config & cache
+
+.idea
+.phpcs-cache
+.phpunit.result.cache
+
+# Project dependencies
+
+vendor
